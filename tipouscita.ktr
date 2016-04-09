@@ -82,7 +82,7 @@
     <access>Native</access>
     <database>DWH</database>
     <port>5432</port>
-    <username>Daniel</username>
+    <username>GilyClem</username>
     <password>Encrypted </password>
     <servername/>
     <data_tablespace/>
@@ -234,7 +234,7 @@
     <encoding>iso-8859-1</encoding>
     <add_to_result_filenames>Y</add_to_result_filenames>
     <file>
-      <name>&#x2f;Users&#x2f;Daniel&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;CODICI_GENERALI&#x2f;CODICI_MOTIVI_USCITA.dat</name>
+      <name>&#x2f;Users&#x2f;GilyClem&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;CODICI_GENERALI&#x2f;CODICI_MOTIVI_USCITA.dat</name>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
@@ -362,17 +362,17 @@
     <encoding/>
     <add_to_result_filenames>Y</add_to_result_filenames>
     <file>
-      <name>&#x2f;Users&#x2f;Daniel&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;WS_ZIP_A7_2012_7_20160129_111326.out.TXT</name>
+      <name>&#x2f;Users&#x2f;GilyClem&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;WS_ZIP_A7_2012_7_20160129_111326.out.TXT</name>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
       <include_subfolders>N</include_subfolders>
-      <name>&#x2f;Users&#x2f;Daniel&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;WS_ZIP_A7_2013_7_20160129_122411.out.TXT</name>
+      <name>&#x2f;Users&#x2f;GilyClem&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;WS_ZIP_A7_2013_7_20160129_122411.out.TXT</name>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
       <include_subfolders>N</include_subfolders>
-      <name>&#x2f;Users&#x2f;Daniel&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;WS_ZIP_A7_2014_7_20160224_135520.out.TXT</name>
+      <name>&#x2f;Users&#x2f;GilyClem&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;WS_ZIP_A7_2014_7_20160224_135520.out.TXT</name>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
