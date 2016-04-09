@@ -82,7 +82,7 @@
     <access>Native</access>
     <database>DWH</database>
     <port>5432</port>
-    <username>Daniel</username>
+    <username>GilyClem</username>
     <password>Encrypted </password>
     <servername/>
     <data_tablespace/>
@@ -403,17 +403,17 @@
     <encoding/>
     <add_to_result_filenames>Y</add_to_result_filenames>
     <file>
-      <name>&#x2f;Users&#x2f;Daniel&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;WS_ZIP_A7_2012_1_20160127_143031.out.TXT</name>
+      <name>&#x2f;Users&#x2f;GilyClem&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;WS_ZIP_A7_2012_1_20160127_143031.out.TXT</name>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
       <include_subfolders>N</include_subfolders>
-      <name>&#x2f;Users&#x2f;Daniel&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;WS_ZIP_A7_2013_1_20160127_120000.out.TXT</name>
+      <name>&#x2f;Users&#x2f;GilyClem&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;WS_ZIP_A7_2013_1_20160127_120000.out.TXT</name>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
       <include_subfolders>N</include_subfolders>
-      <name>&#x2f;Users&#x2f;Daniel&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;WS_ZIP_A7_2014_1_20160127_153020.out.TXT</name>
+      <name>&#x2f;Users&#x2f;GilyClem&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;WS_ZIP_A7_2014_1_20160127_153020.out.TXT</name>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
@@ -1036,17 +1036,17 @@
     <encoding/>
     <add_to_result_filenames>Y</add_to_result_filenames>
     <file>
-      <name>&#x2f;Users&#x2f;Daniel&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;WS_ZIP_A7_2012_4_20160127_160202.out.TXT</name>
+      <name>&#x2f;Users&#x2f;GilyClem&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;WS_ZIP_A7_2012_4_20160127_160202.out.TXT</name>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
       <include_subfolders>N</include_subfolders>
-      <name>&#x2f;Users&#x2f;Daniel&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;WS_ZIP_A7_2013_4_20160127_170043.out.TXT</name>
+      <name>&#x2f;Users&#x2f;GilyClem&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;WS_ZIP_A7_2013_4_20160127_170043.out.TXT</name>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
       <include_subfolders>N</include_subfolders>
-      <name>&#x2f;Users&#x2f;Daniel&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;WS_ZIP_A7_2014_4_20160127_172018.out.TXT</name>
+      <name>&#x2f;Users&#x2f;GilyClem&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;WS_ZIP_A7_2014_4_20160127_172018.out.TXT</name>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
@@ -1711,7 +1711,7 @@
     <encoding/>
     <add_to_result_filenames>Y</add_to_result_filenames>
     <file>
-      <name>&#x2f;Users&#x2f;Daniel&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;CODICI_GENERALI&#x2f;CODICI_TIPO_INGRESSO.dat</name>
+      <name>&#x2f;Users&#x2f;GilyClem&#x2f;Documents&#x2f;Magistrale&#x2f;BD2&#x2f;ans_anonimizzata&#x2f;CODICI_GENERALI&#x2f;CODICI_TIPO_INGRESSO.dat</name>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
