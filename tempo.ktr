@@ -82,7 +82,7 @@
     <access>Native</access>
     <database>DWH</database>
     <port>5432</port>
-    <username>Daniel</username>
+    <username>GilyClem</username>
     <password>Encrypted </password>
     <servername/>
     <data_tablespace/>
